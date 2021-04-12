@@ -1,3 +1,3 @@
 # GradientControls
 
-Simple library to make WinForms pretty look
+Simple library to make WinForms applications pretty look
